@@ -36,6 +36,12 @@ Here are a few repositories that reflect my journey and values:
   <a href="mailto:tansh9720@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="https://www.codechef.com/users/wide_skunks_67" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-C57B2C?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/tayalanqkw9/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
 </p>
 
 ---
@@ -44,6 +50,6 @@ Here are a few repositories that reflect my journey and values:
 
 ```yaml
 Languages: C, C++, Python
-Frameworks: OpenCV, NumPy, Pandas, Matplotlib
-Concepts: DSA, Object Detection, Autonomous Control, Ethics in AI  
+Frameworks: NumPy, Pandas, Matplotlib
+Concepts: DSA, Autonomous Control, Ethics in AI  
 Tools: Git, GitHub, VS Code
