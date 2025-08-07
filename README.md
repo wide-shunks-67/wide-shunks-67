@@ -46,6 +46,13 @@ Here are a few repositories that reflect my journey and values:
 
 ---
 
+📊 My GitHub Stats
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dwide-shunks-67%26show_icons%3Dtrue%26theme%3Dradical%26rank_icon%3Dgithub" alt="Ansh Tayal's GitHub Stats" />
+</p>
+
+---
+
 ### 🧠 Tech Stack
 
 ```yaml
