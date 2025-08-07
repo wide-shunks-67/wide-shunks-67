@@ -22,9 +22,9 @@ I'm an aspiring engineer exploring the frontier of **autonomous systems**, combi
 ### 📂 Featured Projects
 
 Here are a few repositories that reflect my journey and values:
-- 🎯 `Library-Management-System-Cpp` – Clean DSA application with borrower tracking and fine logic  
-- 🎮 `Number-Guessing-Game` – Simple modular game project built with STL and fun UI
-- ✅ `To-Do-List-App` – C++ console app with dynamic memory and file-less persistence
+- 🎯 [`Library-Management-System-Cpp`](https://github.com/wide-shunks-67/Library-Management-System-Cpp) – Clean DSA application with borrower tracking and fine logic
+- 🎮 [`Number-Guessing-Game`](https://github.com/wide-shunks-67/Number-Guessing-Game) – Simple modular game project built with STL and fun UI
+- ✅ [`To-Do-List-App`](https://github.com/wide-shunks-67/To-Do-List-App) – C++ console app with dynamic memory and file-less persistence
 - 🔧 Coming Soon: `Autonomous Navigation Toolkit` (CV + SLAM)
 
 ---
