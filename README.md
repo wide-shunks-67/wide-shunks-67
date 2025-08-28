@@ -25,7 +25,7 @@ Here are a few repositories that reflect my journey and values:
 - 🎯 [`Library-Management-System-Cpp`](https://github.com/wide-shunks-67/CODSOFT/blob/main/TASK_5/library_management_system.cpp) – Clean DSA application with borrower tracking and fine logic
 - 🎮 [`Number-Guessing-Game`](https://github.com/wide-shunks-67/CODSOFT/blob/main/TASK_1/number_guessing_game.cpp) – Simple modular game project built with STL and fun UI
 - ✅ [`To-Do-List-App`](https://github.com/wide-shunks-67/CODSOFT/blob/main/TASK_4/to_do_list.cpp) – C++ console app with dynamic memory and file-less persistence
-- 🔧 Coming Soon: `Autonomous Navigation Toolkit` (CV + SLAM)
+- 🔧 Coming Soon: `Real time ISL tracker` (CV + MEDIAPIPE)
 
 ---
 
