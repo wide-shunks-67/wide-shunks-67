@@ -62,7 +62,7 @@ Here are a few repositories that reflect my journey and values:
 
 ### 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wide-shunks-67&theme=tokyonight&hide_border=true&area=true" height="250" alt="Activity Graph" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=wide-shunks-67&theme=tokyonight&hide_border=true&area=true&cache_bust=1" height="250" alt="Activity Graph" />
 </div>
 
 ---
