@@ -42,6 +42,9 @@ Here are a few repositories that reflect my journey and values:
   <a href="https://www.geeksforgeeks.org/user/tayalanqkw9/" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
+  <a href="https://leetcode.com/u/wide-shunks-67/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
 </p>
 
 ---
