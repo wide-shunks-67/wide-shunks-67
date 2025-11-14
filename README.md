@@ -45,6 +45,9 @@ Here are a few repositories that reflect my journey and values:
   <a href="https://leetcode.com/u/wide-shunks-67/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
+    <a href="https://cses.fi/user/383674" target="_blank">
+  <img src="https://img.shields.io/badge/CSES-Profile-008A9B?style=for-the-badge&logo=cses&logoColor=white" alt="CSES Profile"/>
+  </a>
 </p>
 
 ---
