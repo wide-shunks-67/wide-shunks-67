@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ansh Tayal 🚀</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ansh Tayal 🚀</h1>
 
 <p align="center">
   <b>B.Tech (Hons.) CSE (AI) @ CSVTU Bhilai</b> <br>
@@ -37,16 +37,16 @@ Here are a few repositories that reflect my journey and values:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.codechef.com/users/wide_skunks_67" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-C57B2C?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+    <img src="https://img.shields.io/badge/CodeChef-1421%20(2%E2%98%85)-C57B2C?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/tayalanqkw9/" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
   <a href="https://leetcode.com/u/wide-shunks-67/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-1486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Rating"/>
   </a>
-  <a href="https://cses.fi/user/383674" target="_blank">
-  <img src="https://img.shields.io/badge/CSES-Visit_Profile-008A9B?style=social" alt="CSES Profile"/>
+  <a href="httpss://cses.fi/user/383674" target="_blank">
+    <img src="https://img.shields.io/badge/CSES-Visit_Profile-008A9B?style=social" alt="CSES Profile"/>
   </a>
 </p>
 
@@ -70,10 +70,21 @@ Here are a few repositories that reflect my journey and values:
 
 ---
 
-### 🧠 Tech Stack
+### 🛠️ My Tech Stack
 
-```yaml
-Languages: C, C++, Python
-Frameworks: NumPy, Pandas, Matplotlib
-Concepts: DSA, Autonomous Control, Ethics in AI  
-Tools: Git, GitHub, VS Code
+<p align="center">
+  <b>Languages:</b><br>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <br><br>
+  <b>Frameworks & Libraries:</b><br>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-313131?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <br><br>
+  <b>Tools:</b><br>
+  <img src="httpsloc://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
