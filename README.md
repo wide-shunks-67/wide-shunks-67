@@ -52,13 +52,31 @@ Here are a few repositories that reflect my journey and values:
 
 ---
 
+### 🏆 My Achievements
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wide-shunks-67&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  </a>
+</div>
+
 ### 📊 My GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wide-shunks-67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ansh's GitHub Stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wide-shunks-67&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wide-shunks-67&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <img src="https://streak-stats.demolab.com?user=wide-shunks-67&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+
+### 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wide-shunks-67&theme=tokyonight&hide_border=true&area=true&cache_bust=1" height="250" alt="Activity Graph" />
 </div>
 
 <br>
