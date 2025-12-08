@@ -45,7 +45,7 @@ Here are a few repositories that reflect my journey and values:
   <a href="https://leetcode.com/u/wide-shunks-67/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-1486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Rating"/>
   </a>
-  <a href="httpss://cses.fi/user/383674" target="_blank">
+  <a href="https://cses.fi/user/383674" target="_blank">
     <img src="https://img.shields.io/badge/CSES-Visit_Profile-008A9B?style=social" alt="CSES Profile"/>
   </a>
 </p>
@@ -64,19 +64,9 @@ Here are a few repositories that reflect my journey and values:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wide-shunks-67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ansh's GitHub Stats" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wide-shunks-67&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  
   <br>
-
   <img src="https://streak-stats.demolab.com?user=wide-shunks-67&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br>
-
-### 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wide-shunks-67&theme=tokyonight&hide_border=true&area=true&cache_bust=1" height="250" alt="Activity Graph" />
 </div>
 
 <br>
