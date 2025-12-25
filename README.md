@@ -22,10 +22,10 @@ I'm an aspiring engineer exploring the frontier of **autonomous systems**, combi
 ### 📂 Featured Projects
 
 Here are a few repositories that reflect my journey and values:
+- 🎯 [`Disease-Prediction-System`](https://github.com/wide-shunks-67/disease-prediction-pipeline.git) – This project is a healthcare machine learning pipeline designed to predict the likelihood of disease in patients based on medical history and demographic data.
 - 🎯 [`Library-Management-System-Cpp`](https://github.com/wide-shunks-67/CODSOFT/blob/main/TASK_5/library_management_system.cpp) – Clean DSA application with borrower tracking and fine logic
 - 🎮 [`Number-Guessing-Game`](https://github.com/wide-shunks-67/CODSOFT/blob/main/TASK_1/number_guessing_game.cpp) – Simple modular game project built with STL and fun UI
 - ✅ [`To-Do-List-App`](https://github.com/wide-shunks-67/CODSOFT/blob/main/TASK_4/to_do_list.cpp) – C++ console app with dynamic memory and file-less persistence
-- 🔧 Coming Soon: `Real time ISL tracker` (CV + MEDIAPIPE)
 
 ---
 
