@@ -57,7 +57,7 @@ I'm an aspiring AI/ML engineer building end-to-end machine learning systems — 
 
 - 🎓 **Academic Excellence** — 9.43 SPI in 3rd Semester | Cum. GPA: 8.86 / 10.0
 - 🏅 **Class XII CBSE** — 95/100 in Chemistry, 89/100 in Physics
-- 💻 **Competitive Programming** — Specialist (1405) on Codeforces · 2★ (1545) on CodeChef · 1769 on LeetCode
+- 💻 **Competitive Programming** — Specialist (1405) on Codeforces · 2★ (1545) on CodeChef · 1813 on LeetCode (Max Ratings)
 - 🧩 **700+ problems** solved across Codeforces, LeetCode, CodeChef & AtCoder
 - 👑 **President, ACE Club** — Leading the college CP community with bootcamps, contests & mentorship
 
