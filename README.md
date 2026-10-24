@@ -1,132 +1,118 @@
 <div align="center">
 
-<!-- Hero Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Ansh%20Tayal&fontSize=60&fontAlignY=38&desc=AI%20Specialist%20%7C%20Intelligent%20Backend%20Architect%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=19&theme=tokyonight" width="100%" />
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=1,11,21&height=180&section=header&text=ANSH%20TAYAL&fontSize=50&fontAlignY=42&desc=AI%20Specialist%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20Competitive%20Programmer&descAlignY=66&descSize=18&theme=tokyonight" width="100%" />
 
-<!-- Typing SVG Effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=620&lines=B.Tech+(Hons.)+CSE+(AI)+%40+CSVTU+Bhilai;Specialist+on+Codeforces+(1405)+%7C+1816+LeetCode;President%2C+ACE+(Competitive+Programming+Club);Building+Scalable+FastAPI+Backends+%26+ML+Pipelines" alt="Typing SVG" />
+<!-- Dynamic Terminal Typing Text -->
+<a href="https://github.com/wide-shunks-67">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Crafting+Scalable+FastAPI+Backends+%26+ML+Pipelines;%F0%9F%8F%86+Specialist+on+Codeforces+(1405)+%7C+1816+LeetCode;%F0%9F%8E%93+B.Tech+(Hons.)+AI+%40+CSVTU+(CGPA+8.86+%7C+SPI+9.43);%F0%9F%91%91+President+%40+ACE+(Competitive+Programming+Club)" alt="Typing SVG" />
 </a>
 
+<br/>
+
+<!-- Modern Social Dock -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ansh-tayal-439b1b31a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:anshtayal02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://leetcode.com/u/wide-shunks-67/"><img src="https://img.shields.io/badge/LeetCode-1816-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/wideshunks-67"><img src="https://img.shields.io/badge/Codeforces-1405%20(Specialist)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="https://www.codechef.com/users/wide_shunks_67"><img src="https://img.shields.io/badge/CodeChef-1545-C57B2C?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="mailto:anshtayal02@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/u/wide-shunks-67/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/wideshunks-67"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.codechef.com/users/wide_shunks_67"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Quick Snapshot
+### 🖥️ `engineer.json`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎓 Academics & Leadership</h4>
-      <ul>
-        <li><b>Degree:</b> B.Tech (Hons.) in CSE (AI) @ CSVTU Bhilai (2024–2028)</li>
-        <li><b>CGPA:</b> 8.86 / 10.0 &nbsp;|&nbsp; <b>3rd Sem SPI:</b> 9.43</li>
-        <li><b>Role:</b> President, <b>ACE</b> (Campus Competitive Programming Club)</li>
-        <li><b>Focus:</b> Deep Learning Optimization, Asynchronous Microservices & MLOps</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏆 Algorithmic Milestones</h4>
-      <ul>
-        <li><b>800+</b> Algorithmic problems solved across platforms</li>
-        <li><b>Codeforces:</b> 1405 (Specialist)</li>
-        <li><b>LeetCode:</b> 1816 (Top percentile)</li>
-        <li><b>CodeChef:</b> 1545 (2★)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🚀 Featured Engineering Projects
-
-<table>
-  <thead>
-    <tr>
-      <th width="35%">Project</th>
-      <th width="45%">Description & Highlights</th>
-      <th width="20%">Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>HireAI</b><br><sub>AI-Powered Career Platform</sub></td>
-      <td>Full-stack async platform parsing & optimizing resumes with <b>Google Gemini AI</b>. Built with <b>FastAPI</b>, <b>React</b>, and <b>PostgreSQL (Supabase)</b> with JWT auth & SQLAlchemy ORM.</td>
-      <td>
-        <a href="https://hire-ai-beta-two.vercel.app">🌐 Live Demo</a><br>
-        <a href="https://github.com/wide-shunks-67/HireAI">💻 Repository</a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>CraftOptima</b><br><sub>Optimization & Analytics App</sub></td>
-      <td>Modern end-to-end full-stack web application designed for workflow automation, analytics, and operational efficiency.</td>
-      <td>
-        <a href="https://craftoptima.vercel.app">🌐 Live Demo</a><br>
-        <a href="https://github.com/wide-shunks-67/CraftOptima">💻 Repository</a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>MindMetric</b><br><sub>Wellness & Predictive Tracker</sub></td>
-      <td>Comprehensive analytics dashboard tracking behavioural metrics and patterns with clean responsive data visualization.</td>
-      <td>
-        <a href="https://mindmetric-frontend-henna.vercel.app">🌐 Live Demo</a><br>
-        <a href="https://github.com/wide-shunks-67/MindMetric">💻 Repository</a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>TrailMate</b><br><sub>Adventure & Travel Platform</sub></td>
-      <td>Full-stack responsive travel planning application featuring interactive route generation, real-time coordination, and curated itineraries.</td>
-      <td>
-        <a href="https://trailmate-frontend.vercel.app">🌐 Live Demo</a><br>
-        <a href="https://github.com/wide-shunks-67/TrailMate">💻 Repository</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+```json
+{
+  "name": "Ansh Tayal",
+  "status": "Building scalable intelligent software systems",
+  "academics": {
+    "program": "B.Tech (Hons.) in CSE (Artificial Intelligence)",
+    "institution": "CSVTU Bhilai",
+    "timeline": "2024 – 2028",
+    "cgpa": "8.86 / 10.0",
+    "peak_spi": "9.43 (3rd Semester)"
+  },
+  "leadership": "President @ ACE (Campus Competitive Programming Club)",
+  "metrics": {
+    "problems_solved": "800+",
+    "codeforces": "1405 (Specialist)",
+    "leetcode": "1816 (Top Percentile)",
+    "codechef": "1545 (2★)"
+  },
+  "core_focus": ["Vision Transformers (ViT)", "Asynchronous Microservices", "High-Throughput ML Pipelines"]
+}
+```
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### 🚀 Production & Featured Projects
 
 <div align="center">
 
-<p><b>Languages:</b></p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,c,py,js,ts,html,css" alt="Languages" />
-</a>
-
-<p><b>Backend, Databases & Frameworks:</b></p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,postgres,supabase,mysql" alt="Backend & DB" />
-</a>
-
-<p><b>AI / ML & Data Science:</b></p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy" alt="AI/ML" />
-</a>
-
-<p><b>Tools & Platforms:</b></p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,jupyter" alt="Tools" />
-</a>
+| Project | Live Demo | Stack & Highlights |
+| :--- | :---: | :--- |
+| **🤖 [HireAI](https://github.com/wide-shunks-67/HireAI)** | [**`⚡ Live App`**](https://hire-ai-beta-two.vercel.app) | **FastAPI • React • PostgreSQL • Gemini AI**<br>Asynchronous resume analysis & job-matching pipeline with JWT auth and Supabase storage. |
+| **⚡ [CraftOptima](https://github.com/wide-shunks-67/CraftOptima)** | [**`⚡ Live App`**](https://craftoptima.vercel.app) | **Full-Stack • Modern UI • Workflow Analytics**<br>High-efficiency operations and analytics engine deployed on Vercel. |
+| **🧠 [MindMetric](https://github.com/wide-shunks-67/MindMetric)** | [**`⚡ Live App`**](https://mindmetric-frontend-henna.vercel.app) | **Data Analytics • Health Tech • React**<br>Behavioral data visualization dashboard tracking real-time metric deviations. |
+| **🧭 [TrailMate](https://github.com/wide-shunks-67/TrailMate)** | [**`⚡ Live App`**](https://trailmate-frontend.vercel.app) | **Interactive Travel • Geo Routing • React**<br>Dynamic journey planning platform with real-time route generation and collaborative itineraries. |
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+### ⚡ Competitive Programming & Algorithmic Prowess
 
 <div align="center">
-  <table>
+  <a href="https://leetcode.com/u/wide-shunks-67/">
+    <img src="https://leetcard.jacoblin.cool/wide-shunks-67?theme=nord&font=Karma&border=0&radius=12" alt="LeetCode Stats" />
+  </a>
+</div>
+
+---
+
+### 🛠️ Architecture & Tech Stack
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%"><b>Languages</b></td>
+    <td align="center" width="75%">
+      <img src="https://skillicons.dev/icons?i=cpp,c,py,js,ts,html,css&theme=dark" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend & Data</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=fastapi,flask,react,postgres,supabase,mysql&theme=dark" alt="Backend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI / Machine Learning</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy&theme=dark" alt="AI/ML" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps & Tools</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,jupyter&theme=dark" alt="Tools" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 📊 GitHub Telemetry
+
+<div align="center">
+  <table border="0">
     <tr>
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=wide-shunks-67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
@@ -146,5 +132,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=90&section=footer" width="100%" />
 </div>
