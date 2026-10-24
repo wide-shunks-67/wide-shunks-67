@@ -1,122 +1,150 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ansh Tayal 🚀</h1>
+<div align="center">
+
+<!-- Hero Banner Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Ansh%20Tayal&fontSize=60&fontAlignY=38&desc=AI%20Specialist%20%7C%20Intelligent%20Backend%20Architect%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=19&theme=tokyonight" width="100%" />
+
+<!-- Typing SVG Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=620&lines=B.Tech+(Hons.)+CSE+(AI)+%40+CSVTU+Bhilai;Specialist+on+Codeforces+(1405)+%7C+1816+LeetCode;President%2C+ACE+(Competitive+Programming+Club);Building+Scalable+FastAPI+Backends+%26+ML+Pipelines" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <b>B.Tech (Hons.) CSE (AI) @ CSVTU Bhilai (2024–2028)</b> <br>
-  <b>Cum. GPA: 8.86 / 10.0 &nbsp;|&nbsp; 3rd Sem SPI: 9.43</b> <br>
-  👨‍💻 Intelligent Backend Frameworks | ML Pipelines | NLP | Competitive Programming
+  <a href="https://www.linkedin.com/in/ansh-tayal-439b1b31a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:anshtayal02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/u/wide-shunks-67/"><img src="https://img.shields.io/badge/LeetCode-1816-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/wideshunks-67"><img src="https://img.shields.io/badge/Codeforces-1405%20(Specialist)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.codechef.com/users/wide_shunks_67"><img src="https://img.shields.io/badge/CodeChef-1545-C57B2C?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </p>
 
----
-
-### 🔍 About Me
-
-I am an AI Specialist and Backend Engineer focused on designing production-ready machine learning pipelines and building high-performance asynchronous web backends. I love bridging deep structural optimization algorithms with clean software architecture.
-
-- 🎓 Pursuing B.Tech (Hons.) in CSE (Artificial Intelligence) @ CSVTU Bhilai
-- 🏆 President, ACE (Competitive Programming Club) 
-- 🌱 Currently exploring **Vision Transformers (ViT)** and **Advanced MLOps Deployment**
-- 💡 800+ problems solved across Codeforces, LeetCode, CodeChef & AtCoder
+</div>
 
 ---
 
-### 📂 Featured Engineering Projects
+### 👨‍💻 Quick Snapshot
 
-- 🤖 [`HireAI — AI-Powered Job Platform`](https://github.com/wide-shunks-67/HireAI.git) — A full-stack asynchronous career application utilizing a **FastAPI** backend and **React** frontend to parse and optimize resumes using Google Gemini AI. Backed by **PostgreSQL (Supabase)**, utilizing SQLAlchemy ORM, Pydantic data schemas, and JWT authentication.
-
-- 💬 [`Customer-Sentiment-Analysis`](https://github.com/wide-shunks-67) — End-to-end NLP pipeline (TensorFlow, Hugging Face) classifying 25,000+ text sequences using a custom **Bidirectional LSTM** network architecture; integrated **RoBERTa transformers** for zero-shot inference and comparative benchmarking.
-
-- 🧬 [`Disease-Prediction-System`](https://github.com/wide-shunks-67/disease-prediction-pipeline.git) — Machine Learning framework (Python, Scikit-learn, Pandas) optimized for high-stakes medical diagnoses; mitigated data skew via Stratified Splitting, with the SVM classifier hitting **90.5% Recall**.
-
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ansh-tayal-439b1b31a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:anshtayal02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://codeforces.com/profile/wideshunks-67" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1405%20(Specialist)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="https://www.codechef.com/users/wide_shunks_67" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-1545%20(2%E2%98%85)-C57B2C?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating"/>
-  </a>
-  <a href="https://leetcode.com/u/wide-shunks-67/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-1816-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Rating"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/tayalanqkw9/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 Academics & Leadership</h4>
+      <ul>
+        <li><b>Degree:</b> B.Tech (Hons.) in CSE (AI) @ CSVTU Bhilai (2024–2028)</li>
+        <li><b>CGPA:</b> 8.86 / 10.0 &nbsp;|&nbsp; <b>3rd Sem SPI:</b> 9.43</li>
+        <li><b>Role:</b> President, <b>ACE</b> (Campus Competitive Programming Club)</li>
+        <li><b>Focus:</b> Deep Learning Optimization, Asynchronous Microservices & MLOps</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏆 Algorithmic Milestones</h4>
+      <ul>
+        <li><b>800+</b> Algorithmic problems solved across platforms</li>
+        <li><b>Codeforces:</b> 1405 (Specialist)</li>
+        <li><b>LeetCode:</b> 1816 (Top percentile)</li>
+        <li><b>CodeChef:</b> 1545 (2★)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🏆 Achievements
+### 🚀 Featured Engineering Projects
 
-- 🎓 **Academic Excellence** — Peak 9.43 SPI in 3rd Semester | Cumulative GPA: 8.86 / 10.0
-- 💻 **Competitive Programming** — Specialist (1405) on Codeforces · 2★ (1545) on CodeChef · 1816 on LeetCode (Peak Ratings)
-- 🧩 **700+ Algorithmic Challenges** solved across Codeforces, LeetCode, CodeChef, and AtCoder
-- 👑 **President, ACE Club** — Orchestrating campus-wide coding culture, designing contest frameworks, and hosting bootcamps
+<table>
+  <thead>
+    <tr>
+      <th width="35%">Project</th>
+      <th width="45%">Description & Highlights</th>
+      <th width="20%">Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>HireAI</b><br><sub>AI-Powered Career Platform</sub></td>
+      <td>Full-stack async platform parsing & optimizing resumes with <b>Google Gemini AI</b>. Built with <b>FastAPI</b>, <b>React</b>, and <b>PostgreSQL (Supabase)</b> with JWT auth & SQLAlchemy ORM.</td>
+      <td>
+        <a href="https://hire-ai-beta-two.vercel.app">🌐 Live Demo</a><br>
+        <a href="https://github.com/wide-shunks-67/HireAI">💻 Repository</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>CraftOptima</b><br><sub>Optimization & Analytics App</sub></td>
+      <td>Modern end-to-end full-stack web application designed for workflow automation, analytics, and operational efficiency.</td>
+      <td>
+        <a href="https://craftoptima.vercel.app">🌐 Live Demo</a><br>
+        <a href="https://github.com/wide-shunks-67/CraftOptima">💻 Repository</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>MindMetric</b><br><sub>Wellness & Predictive Tracker</sub></td>
+      <td>Comprehensive analytics dashboard tracking behavioural metrics and patterns with clean responsive data visualization.</td>
+      <td>
+        <a href="https://mindmetric-frontend-henna.vercel.app">🌐 Live Demo</a><br>
+        <a href="https://github.com/wide-shunks-67/MindMetric">💻 Repository</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>TrailMate</b><br><sub>Adventure & Travel Platform</sub></td>
+      <td>Full-stack responsive travel planning application featuring interactive route generation, real-time coordination, and curated itineraries.</td>
+      <td>
+        <a href="https://trailmate-frontend.vercel.app">🌐 Live Demo</a><br>
+        <a href="https://github.com/wide-shunks-67/TrailMate">💻 Repository</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
 
-<p align="center">
-  <b>Core Programming Languages:</b><br>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <br><br>
-  <b>Backend Frameworks & Infrastructure:</b><br>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-  <br><br>
-  <b>Machine Learning & Data Engineering:</b><br>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <br><br>
-  <b>Development Tools:</b><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=wide-shunks-67&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-  </a>
+
+<p><b>Languages:</b></p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,js,ts,html,css" alt="Languages" />
+</a>
+
+<p><b>Backend, Databases & Frameworks:</b></p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,postgres,supabase,mysql" alt="Backend & DB" />
+</a>
+
+<p><b>AI / ML & Data Science:</b></p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy" alt="AI/ML" />
+</a>
+
+<p><b>Tools & Platforms:</b></p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,jupyter" alt="Tools" />
+</a>
+
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wide-shunks-67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ansh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wide-shunks-67&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=wide-shunks-67&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=wide-shunks-67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wide-shunks-67&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com?user=wide-shunks-67&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br>
+---
 
-### 📈 Activity Graph
 <div align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=wide-shunks-67&theme=tokyonight&hide_border=true&area=true" height="250" alt="Activity Graph" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=100&section=footer" width="100%" />
 </div>
